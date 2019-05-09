@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">EDISANA NWED ABASI</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">KING JAMES VERSION</string>
+    <string name="nav_header_subtitle">EDISANA NWED ABASI</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="kot_bible">Kot Bible</string>
+    <string name="title_activity_bible_selector">BibleSelectorActivity</string>
+    <string name="text_view">EDISANA NWED ABASI</string>
+
+    <string-array name="old_testament_list">Old Testament
+        <item>Genesis</item>
+        <item>Exodus</item>
+        <item>Leviticus</item>
+        <item>Numbers</item>
+        <item>Deuteronomy</item>
+        <item>Joshua</item>
+        <item>Judges</item>
+        <item>Ruth</item>
+        <item>1 Samuel</item>
+        <item>2 Samuel</item>
+        <item>1 Ndidem</item>
+        <item>2 Ndidem</item>
+        <item>1 Chronicle</item>
+        <item>2 Chronicle</item>
+        <item>Ezra</item>
+        <item>Nehemiah</item>
+        <item>Esther</item>
+        <item>Job</item>
+        <item>Mme Psalm</item>
+        <item>Mme N̄ke</item>
+        <item>Ikwọ Solomon</item>
+        <item>Isaiah</item>
+        <item>Jeremiah</item>
+        <item>Eseme</item>
+        <item>Ezekiel</item>
+        <item>Daniel</item>
+        <item>Hosea</item>
+        <item>Joel</item>
+        <item>Amos</item>
+        <item>Obadiah</item>
+        <item>Jonah</item>
+        <item>Micah</item>
+        <item>Nahum</item>
+        <item>Habakkuk</item>
+        <item>Zephaniah</item>
+        <item>Haggai</item>
+        <item>Zachariah</item>
+        <item>Malachi</item>
+    </string-array>
+
+    <string-array name="new_testament_list">New Testament
+        <item>Mathew</item>
+        <item>Mark</item>
+        <item>Luke</item>
+        <item>John</item>
+        <item>Utom  Apostle</item>
+        <item>Rome</item>
+        <item>1 Corinth</item>
+        <item>2 Corinth</item>
+        <item>Galatia</item>
+        <item>Ephesus</item>
+        <item>Philippi</item>
+        <item>Colossae</item>
+        <item>1 Thessalonica</item>
+        <item>2 Thessalonica</item>
+        <item>1 Timothy</item>
+        <item>2 Timothy</item>
+        <item>Titus</item>
+        <item>Philemon</item>
+        <item>Mme Hebrew</item>
+        <item>I Peter</item>
+        <item>2 Peter</item>
+        <item>1 John</item>
+        <item>2 John</item>
+        <item>3 John</item>
+        <item>Jude</item>
+        <item>Ediyarade</item>
+    </string-array>
+
+    <string-array name="bible_chapter">Bible Chapter
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="bible_version">KJV
+        <item>KJV</item>
+
+    </string-array>
+    <string name="title_activity_bible_selector2">BibleSelectorActivity2</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
